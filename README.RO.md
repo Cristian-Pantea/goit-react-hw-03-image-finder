@@ -3,7 +3,7 @@
 Acest proiect a fost creat cu ajutorul
 [Create React App](https://github.com/facebook/create-react-app). Pentru prezentări
 și configurarea de funcții suplimentare
-[consultați documentația](https://facebook.github.io/create-react-app/docs/getting-started).
+[consultați documentațiaa](https://facebook.github.io/create-react-app/docs/getting-started).
 
 ## Crearea unui repository dintr-un șablon
 
